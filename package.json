@@ -1,0 +1,45 @@
+{
+  "name": "react-native-parallax-flatlist",
+  "version": "1.0.0",
+  "description": "Parallax effects for images in a React Native FlatList",
+  "main": "index.js",
+  "scripts": {
+    "test": "flow check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulglo/react-native-parallax-flatlist.git"
+  },
+  "keywords": ["react", "native", "flatlist", "parallax", "image", "animated"],
+  "author": "David Sullivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soulglo/react-native-parallax-flatlist/issues"
+  },
+  "homepage":
+    "https://github.com/soulglo/react-native-parallax-flatlist#readme",
+  "peerDependencies": {
+    "react-native": "^0.49.1",
+    "react": "^16.0.0-beta.5"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "babel-jest": "18.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "eslint": "^3.19.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-config-standard-react": "^5.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-json": "^1.2.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-react": "^7.2.1",
+    "eslint-plugin-standard": "^3.0.1",
+    "jest": "18.1.0",
+    "jest-cli": "^18.1.0",
+    "prettier": "^1.9.2",
+    "prettier-eslint": "^6.4.2",
+    "prettier-eslint-cli": "^4.1.1",
+    "react-test-renderer": "15.4.2"
+  }
+}
