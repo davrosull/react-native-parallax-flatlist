@@ -78,4 +78,4 @@ Inspiration taken from [react-native-parallax](https://github.com/oblador/react-
 
 ## License
 
-[MIT License](http://opensource.org/licenses/mit-license.html). © Joel Arvidsson
+[MIT License](http://opensource.org/licenses/mit-license.html). © David Sullivan
