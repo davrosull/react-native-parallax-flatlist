@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soulglo/react-native-parallax-flatlist.git"
+    "url": "git+https://github.com/davrosull/react-native-parallax-flatlist.git"
   },
   "keywords": ["react", "native", "flatlist", "parallax", "image", "animated"],
   "author": "David Sullivan",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/soulglo/react-native-parallax-flatlist/issues"
   },
