@@ -66,7 +66,7 @@ Any [`Image` property](http://facebook.github.io/react-native/docs/image.html) a
 
 ## Demo
 
-![Demo](https://github.com/soulglo/react-native-parallax-flatlist/blob/master/demo-min.gif?raw=true)
+![Demo](https://github.com/davrosull/react-native-parallax-flatlist/blob/master/demo-min.gif?raw=true)
 
 ## Example
 
