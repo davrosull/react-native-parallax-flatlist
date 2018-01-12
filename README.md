@@ -1,6 +1,6 @@
 # react-native-parallax-flatlist
 
-A drop in replacement for `FlatList` that allows for a Parallax effect on images.
+A drop in replacement for `FlatList` that allows for a Parallax effect on images (by using the ParallaxImage component included).
 
 ## Installation
 
@@ -66,7 +66,7 @@ Any [`Image` property](http://facebook.github.io/react-native/docs/image.html) a
 
 ## Demo
 
-![Demo](https://cloud.githubusercontent.com/assets/378279/8894786/81b493f8-33c3-11e5-9a5a-8695642c6ee7.gif)
+![Demo](https://github.com/soulglo/react-native-parallax-flatlist/blob/master/demo-min.gif?raw=true)
 
 ## Example
 
