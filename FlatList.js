@@ -9,7 +9,9 @@ const AnimatedFlatList = Animated.createAnimatedComponent(List);
 
 /* Component ==================================================================== */
 class FlatList extends PureComponent {
-  static propTypes = {};
+  static propTypes = {
+    ...FlatList.propTypes,
+  };
 
   constructor(props) {
     super(props);
