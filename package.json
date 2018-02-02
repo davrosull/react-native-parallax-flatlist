@@ -1,6 +1,6 @@
 {
   "name": "react-native-parallax-flatlist",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Parallax effects for images in a React Native FlatList",
   "main": "index.js",
   "scripts": {
