@@ -12,7 +12,7 @@ import {
   Dimensions,
   PixelRatio,
 } from 'react-native';
-import FlatList, { ParallaxImage } from './react-native-parallax-flatlist';
+import FlatList, { ParallaxImage } from 'react-native-parallax-flatlist';
 
 const IMAGE_WIDTH = Dimensions.get('window').width;
 const IMAGE_HEIGHT = 200;
