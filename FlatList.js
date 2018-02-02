@@ -51,7 +51,7 @@ class FlatList extends PureComponent {
       });
     }
 
-    if (children.type.displayName === ParallaxImage) {
+    if (children.type.displayName === 'ParallaxImage') {
       return React.cloneElement(children, props);
     }
     return children;
